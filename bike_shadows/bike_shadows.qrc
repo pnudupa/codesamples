@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>bike.mtl</file>
+        <file>bike.obj</file>
+        <file>scene_fragment.glsl</file>
+        <file>scene_vertex.glsl</file>
+        <file>shadow_fragment.glsl</file>
+        <file>shadow_vertex.glsl</file>
+        <file>platform.obj</file>
+        <file>platform.mtl</file>
+    </qresource>
+</RCC>
